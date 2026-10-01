@@ -1,11 +1,4 @@
-## Hi there 👋
-
-<!--
-**rabeb-boussaha/rabeb-boussaha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...# 💫 About Me:
+# 💫 About Me:
 🔭 I'm currently working on scalable full-stack platforms (insurance, accounting, ERP) with Spring Boot, Angular, React, FastAPI and Docker, including full Arabic RTL support.<br>👯 I'm looking to collaborate on open-source projects around multilingual/RTL web apps, developer tooling, and clean, maintainable architectures.<br>🤝 I'm looking for help with advanced DevOps practices: CI/CD pipelines, observability, and zero-downtime deployments.<br>🌱 I'm currently learning cloud-native architecture, microservices, and integrating AI features into real-world business apps.<br>💬 Ask me about Java & Spring Boot, Angular, REST API design, Docker, or taking a project from idea to production on a VPS.<br>⚡ Fun fact: I'm happiest when a bug I've chased for hours turns out to be one missing character. ☕🇹🇳
 
 
@@ -29,11 +22,3 @@ Here are some ideas to get you started:
 [![](https://komarev.com/ghpvc/?username=rabeb-boussaha&icon=4&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
